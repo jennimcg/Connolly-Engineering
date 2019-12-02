@@ -59,8 +59,8 @@ p {
 /* Title Image */
 
 .title-image {
-	max-width:300px;
-	max-height:200px;
+	max-width:500px;
+	max-height:400px;
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
@@ -230,8 +230,8 @@ p {
 }
 
 .testimonial-image {
-	max-width:300px;
-	max-height:200px;
+	max-width:500px;
+	max-height:400px;
   width:50%;
   margin: 1px;
 }
